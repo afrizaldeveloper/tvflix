@@ -1,6 +1,6 @@
 Tvflix
 
-Tvflix is a popular movie app made by codewithsadee.
+Tvflix is a popular movie app made by afrizaldeveloper.
 
 
 
@@ -40,8 +40,7 @@ Hindi
 Bengali
 
 Copyright 2023
-href = https://youtube.com/@codewithsadee
-codewithsadee
+href = https://youtube.com/@redsecteam
 
 alt = the movie database logo
 
